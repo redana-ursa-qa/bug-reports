@@ -22,7 +22,7 @@ Version beta 0.7.14
 
 ### Предусловия:
 
-Открыта страница сайта: https://qa.skillbox.ru/module11/practice/feedback
+Открыта страница сайта: https://qa.skillbox.ru/module11/practice/
 
 ## Шаги воспроизведения:
 
