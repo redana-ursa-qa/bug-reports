@@ -1,4 +1,4 @@
-# Bug-report №1  
+# Bug-report №1.1  
 
 ## Заголовок:
 
